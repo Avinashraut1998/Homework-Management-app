@@ -1,0 +1,8 @@
+PORT=8000
+MONGO_URL=
+
+
+DBNAME=homework
+
+
+CORS_ORIGIN=*
